@@ -6,3 +6,7 @@ a chrome extension: get website url for markdown writer
 ### Download & Install
 
 [mUrl \- Chrome Web Store](https://chrome.google.com/webstore/detail/murl/nmhkegedgpbbkcicjgcnbjebdjedljgl?utm_source=chrome-ntp-icon)
+
+### Credits
+
+[ku/CreateLink: Make Link alternative to chrome](https://github.com/ku/CreateLink)
