@@ -11,4 +11,6 @@ a chrome extension: get website url for markdown writer
 
 ### Credits
 
-[ku/CreateLink: Make Link alternative to chrome](https://github.com/ku/CreateLink)
+- [ku/CreateLink: Make Link alternative to chrome](https://github.com/ku/CreateLink)
+
+- [zenorocha/clipboard\.js: Modern copy to clipboard\. No Flash\. Just 3kb gzipped](https://github.com/zenorocha/clipboard.js)
