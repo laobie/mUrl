@@ -1,4 +1,4 @@
-function getCurrentTabUrl(callback) {
+function getCurrentTabInfo(callback) {
     var queryInfo = {
         active: true,
         currentWindow: true
@@ -11,7 +11,7 @@ function getCurrentTabUrl(callback) {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-    getCurrentTabUrl(function (title, url) {
+    getCurrentTabInfo(function (title, url) {
         var msgText = document.getElementById("msg_text");
         msgText.style.display = "none";
         var inputText = document.getElementById("md_format_url");
