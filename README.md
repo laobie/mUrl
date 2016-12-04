@@ -1,5 +1,5 @@
 # mUrl
-a chrome extension: get website url for markdown writer
+A chrome extension: get website url for markdown writer
 
 ![](https://github.com/laobie/mUrl/blob/master/extension/asset/murl_128.png)
 
